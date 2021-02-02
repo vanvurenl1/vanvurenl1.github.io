@@ -5,7 +5,7 @@
 ### Data Analytics 
 
 [Chess Statistics Tableau Dashboard](prizm15.github.io/ChessStats)
-<img src="images/top_players_per_country?raw=true"/>
+<img src="images/top_players_per_country.PNG?raw=true"/>
 
 ---
 [Cumulative COVID-19 Statistics for the United States](prizm15.github.io/COVIDMap)
