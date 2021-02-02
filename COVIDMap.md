@@ -46,6 +46,6 @@ COVIDPlot(filter_date(Deaths_Per_Capita, today))
 
 ### 3. Migrating to a Shiny application
 
-I finally migrated the code to a Shiny application then deployed it to shinyapps.io. The final Shiny application can be viewed [here,](https://vanvurenl.shinyapps.io/covid_visualization/?_ga=2.267778314.581288874.1612146626-1614514016.1607710385) and the code [here!](https://github.com/Prizm15/COVIDMap)
+Finally, I migrated the code to a Shiny application then deployed it to a server. The final Shiny application can be viewed [here,](https://vanvurenl.shinyapps.io/covid_visualization/?_ga=2.267778314.581288874.1612146626-1614514016.1607710385) and the code [here!](https://github.com/Prizm15/COVIDMap)
 
 <img src="images/shinyappdemo.PNG?raw=true"/>
