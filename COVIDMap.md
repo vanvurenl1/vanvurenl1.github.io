@@ -1,6 +1,8 @@
 ## COVID-19 Map of United States
 
-**Project description:** This COVID-19 Map for the United States is a project that I undertook as part of a Data Science class. I aimed to make a Shiny app which made it simple for the user to generate a map with different variables. This was made possible by using the Shiny library in R and taking advantage of its page elements, such as drop-downs, sliders, and graph plots. I am grateful to the New York Times for making its current COVID data publically available which I use to automatically update the applications dataset. You can view the map [here.](https://vanvurenl.shinyapps.io/covid_visualization/?_ga=2.267778314.581288874.1612146626-1614514016.1607710385)
+[**View Application**](https://vanvurenl.shinyapps.io/covid_visualization/?_ga=2.267778314.581288874.1612146626-1614514016.1607710385)
+
+**Project description:** This COVID-19 Map for the United States is a project that I undertook as part of a Data Science class. I aimed to make a Shiny app which made it simple for the user to generate a map with different variables. This was made possible by using the Shiny library in R and taking advantage of its page elements, such as drop-downs, sliders, and graph plots. I am grateful to the New York Times for making its current COVID data publically available which I use to automatically update the applications dataset. You can view the final application [here.](https://vanvurenl.shinyapps.io/covid_visualization/?_ga=2.267778314.581288874.1612146626-1614514016.1607710385)
 
 **Skills:**
 * R and Shiny
