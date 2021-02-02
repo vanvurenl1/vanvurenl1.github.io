@@ -18,4 +18,4 @@ One pattern to notice here is the popularity of chess among Europe in comparison
 
 The third visualization shows how median rating varies per country. This also shows how much higher rating the best players are compared to their own countries. Overall, most of the countries hover within 400 points of the average, and it should be interesting how chess's new popularity with the Queen's Gambit being released on Netflix may change this data in the near future.
 
-<img src="images/country_median_vs_max_ratings?raw=true"/>
+<img src="images/country_median_vs_max_ratings.PNG?raw=true"/>
