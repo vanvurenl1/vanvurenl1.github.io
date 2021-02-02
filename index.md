@@ -4,24 +4,18 @@
 
 ### Data Analytics 
 
-[Chess Statistics Tableau Dashboard](https://public.tableau.com/profile/logan.van.vuren#!/)
+[Chess Statistics Tableau Dashboard](prizm15.github.io/ChessStats)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Cumulative COVID-19 Statistics (US)](https://vanvurenl.shinyapps.io/covid_visualization/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Cumulative COVID-19 Statistics for the United States](prizm15.github.io/COVIDMap)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Certifications
 
-[AWS Cloud Practitioner (2020)]
-
----
+[AWS Cloud Practitioner (December 2020)](https://www.youracclaim.com/badges/bb5ff7bb-2976-41cc-8a7b-b2e4b5866c38/linked_in)
 
 ---
 <!-- 
