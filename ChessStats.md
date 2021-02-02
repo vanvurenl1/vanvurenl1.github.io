@@ -3,9 +3,10 @@
 **Project description:** Inspired by the recent boom in chess players from the popularity of the Queen's Gambit on Netflix, I decided to see for myself what insights I could gather from data currently available from the FIDE, the international governing body for chess regulations and rankings. After parsing through this XML data using Python, I was able to view how players and countries related to each other in terms of chess rankings. 
 
 **Skills:** 
-* Data Analytics
+* Data analysis
 * Python
 * XML
+* Statistical insights
 
 ### 1. Rating vs. Age
 
