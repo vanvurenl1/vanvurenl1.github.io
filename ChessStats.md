@@ -4,24 +4,18 @@
 
 ### 1. Rating vs. Age
 
-Age seemed to have a smaller role to play in the distribution of titles than I thought. Of course, lower titles tended to be younger audiences, but after 1750 the distribution is relatively flat. I included the average for both rating and age to show the data is skewed slightly right. This is probably a result of chess reaching a much more global audience through Netflix and therefore has a larger, younger playerbase. 
+Age seems to have a smaller role to play in the distribution of titles than I thought. Of course, lower titles tended to be younger audiences, but after 1750 the distribution is relatively flat. I included the average for both rating and age to show the data is skewed slightly right. This is probably a result of chess reaching a much more global audience through Netflix and therefore has a larger, younger playerbase. 
 
 <img src="images/rating_vs_age.PNG?raw=true"/>
 
-### 2. Assess assumptions on which statistical inference will be based
+### 2. Top Players per Country
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+One pattern to notice here is the popularity of chess among Europe in comparison to the rest of the world. Even in countries with smaller populations than that of Russia, China, and India, there are many top players represented. I included parameter slide to see how this changes depending on how many top players we include on the map. Chess is definitely a global phenomenon!
 
-### 3. Support the selection of appropriate statistical tools and techniques
+<img src="images/top_players_per_country.PNG?raw=true"/>
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### 3. Country Median vs. Max Ratings
 
-### 4. Provide a basis for further data collection through surveys or experiments
+The third visualization shows how median rating varies per country. This also shows how much higher rating the best players are compared to their own countries. Overall, most of the countries hover within 400 points of the average, and it should be interesting how chess's new popularity with the Queen's Gambit being released on Netflix may change this data in the near future.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<img src="images/country_median_vs_max_ratings?raw=true"/>
