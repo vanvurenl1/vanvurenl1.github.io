@@ -2,6 +2,11 @@
 
 **Project description:** Inspired by the recent boom in chess players from the popularity of the Queen's Gambit on Netflix, I decided to see for myself what insights I could gather from data currently available from the FIDE, the international governing body for chess regulations and rankings. After parsing through this XML data using Python, I was able to view how players and countries related to each other in terms of chess rankings. 
 
+**Skills:** 
+* Data Analytics
+* Python
+* XML
+
 ### 1. Rating vs. Age
 
 Age seems to have a smaller role to play in the distribution of titles than I thought. Of course, lower titles tended to be younger audiences, but after 1750 the distribution is relatively flat. I included the average for both rating and age to show the data is skewed slightly right. This is probably a result of chess reaching a much more global audience through Netflix and therefore has a larger, younger playerbase. 
