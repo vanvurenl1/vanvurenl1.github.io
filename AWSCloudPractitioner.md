@@ -5,6 +5,7 @@
 **Skills:**
 * Understanding of AWS Cloud and its global infrastructure
 * AWS Cloud architectural principles
+* Understanding security compliance and the shared responsibility model
 * Knowledge of key services on AWS platform and common use cases
 * Understanding of AWS billing, account management, and pricing models
 
