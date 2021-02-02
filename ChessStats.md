@@ -6,7 +6,7 @@
 
 Age seemed to have a smaller role to play in the distribution of titles than I thought. Of course, lower titles tended to be younger audiences, but after 1750 the distribution is relatively flat. I included the average for both rating and age to show the data is skewed slightly right. This is probably a result of chess reaching a much more global audience through Netflix and therefore has a larger, younger playerbase. 
 
-
+<img src="images/rating_vs_age.PNG?raw=true"/>
 
 ### 2. Assess assumptions on which statistical inference will be based
 
