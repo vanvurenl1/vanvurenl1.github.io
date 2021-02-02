@@ -24,7 +24,7 @@
 
 ### Certifications
 
-[AWS Cloud Practitioner (December 2020)](vanvurenl1.github.io/AWSCertification)
+[AWS Cloud Practitioner (December 2020)](vanvurenl1.github.io/AWSCloudPractitioner)
 
 <img src="images/cloudpractitioner.PNG?raw=true"/>
 ---
