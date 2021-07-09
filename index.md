@@ -1,8 +1,8 @@
 ## Portfolio
 
----
-
 ### Data Analytics Projects
+
+---
 
 [Chess Statistics Tableau Dashboard](vanvurenl1.github.io/ChessStats) (January 2021)
 
