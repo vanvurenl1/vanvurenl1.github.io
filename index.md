@@ -20,6 +20,8 @@
 
 <img src="images/shinyappdemo.PNG?raw=true"/>
 
+---
+
 [Pretentify Web Application](vanvurenl1.github.io/Pretentify) (March-June 2021)
 
 * Agile Scrum
