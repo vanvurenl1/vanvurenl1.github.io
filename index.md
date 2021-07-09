@@ -12,7 +12,7 @@
 <img src="images/top_players_per_country.PNG?raw=true"/>
 
 ---
-[Cumulative COVID-19 Statistics for the United States](vanvurenl1.github.io/COVIDMap) (December 2020)
+[Cumulative COVID-19 Statistics for the United States](/COVIDMap) (December 2020)
 
 * Statisical analysis
 * R and Shiny
@@ -22,7 +22,7 @@
 
 ---
 
-[Pretentify Web Application](vanvurenl1.github.io/Pretentify) (March-June 2021)
+[Pretentify Web Application](/Pretentify) (March-June 2021)
 
 * Agile Scrum
 * Python, Flask, HTML, and CSS
@@ -34,7 +34,7 @@
 
 ### Certifications
 
-[AWS Cloud Practitioner (December 2020)](vanvurenl1.github.io/AWSCloudPractitioner)
+[AWS Cloud Practitioner (December 2020)](/AWSCloudPractitioner)
 
 <img src="images/cloudpractitioner.PNG?raw=true"/>
 
