@@ -35,7 +35,9 @@
 [AWS Cloud Practitioner (December 2020)](vanvurenl1.github.io/AWSCloudPractitioner)
 
 <img src="images/cloudpractitioner.PNG?raw=true"/>
+
 ---
+
 <!-- 
 I'm grateful for Github user evanca for the forked template to complete this page. 
 Here's the link to the template: https://github.com/evanca/quick-portfolio 
