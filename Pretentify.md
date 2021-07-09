@@ -5,6 +5,7 @@
 **Skills:**
 * Python
 * Spotify API
+* OAuth2 for User Authentication
 * Data Analytics
 * HTML
 * CSS
