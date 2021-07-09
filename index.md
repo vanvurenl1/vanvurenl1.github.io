@@ -20,6 +20,14 @@
 
 <img src="images/shinyappdemo.PNG?raw=true"/>
 
+[Pretentify Web Application](vanvurenl1.github.io/Pretentify) (March-June 2021)
+
+* Agile Scrum
+* Python, Flask, HTML, and CSS
+* Spotify API
+
+<img src="images/PretentifyConferencePoster.png?raw=true"/>
+
 ---
 
 ### Certifications
