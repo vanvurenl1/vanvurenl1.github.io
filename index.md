@@ -4,7 +4,7 @@
 
 ---
 
-[Chess Statistics Tableau Dashboard](vanvurenl1.github.io/ChessStats) (January 2021)
+[Chess Statistics Tableau Dashboard](ChessStats) (January 2021)
 
 * Data analysis and visualization with Tableau
 * XML parsing with Python
